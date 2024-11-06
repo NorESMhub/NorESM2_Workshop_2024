@@ -12,10 +12,10 @@
   -->
 - Day 2:
   <!--
-  + [Basics on NorESM model output](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/noresm-diag-basics.pdf)
-  + [CMIP5/6 and NorESM datasets on NIRD](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/cmip-data.pdf)
-  + Model configuration
-- [Example scripts for reproducible experiments](https://github.com/NorESMhub/NorESM_Workshop_2023/tree/main/share)
-- Collaborative document for questions and notes:<br> https://hackmd.io/fFzNUsuITv6LwlAdL7QfXg
+    + [Basics on NorESM model output](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/noresm-diag-basics.pdf)
+    + [CMIP5/6 and NorESM datasets on NIRD](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/cmip-data.pdf)
+    + Model configuration
+  - [Example scripts for reproducible experiments](https://github.com/NorESMhub/NorESM_Workshop_2023/tree/main/share)
+  - Collaborative document for questions and notes:<br> https://hackmd.io/fFzNUsuITv6LwlAdL7QfXg
   -->
 - ...
