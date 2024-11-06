@@ -3,12 +3,14 @@
 
 ### Summary of important links
 
-- Watch the stream at [https://twitch.tv/coderefinery](https://twitch.tv/coderefinery) (shareable)
-- [Archive of past communication to participants](@/communication/_index.md) (shareable)
-- Q&A of each day is archived on [this page](@/questions/_index.md) (shareable)
-- Videos [on Twitch](https://www.twitch.tv/coderefinery/videos) for 7 days
-  and [on
-  YouTube](https://www.youtube.com/playlist?list=PLpLblYHCzJAC5BCOYGsbxg9hWpVX2g8nf) later
-- Install instructions: <https://coderefinery.github.io/installation/>
-- Lesson material is linked in the schedule below (shareable)
-- Collaborative document for questions and notes (please register to receive it)
+- Links to lesson material in the schedule below (shareable)
+- Day 1:
+  + [NorESM historical development](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/Bentsen_Torsvik_NorESM_user_workshop_20231120.pdf)
+  + [NorESM workflow and model structure](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/NorESM_user_workshop_2023.pdf
+  + [Reproducible experiment and model design](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/Steve_Day4_Scripts_ModelDevelopment_SEdycore.pdf)
+- Day 2:
+  + [Basics on NorESM model output](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/noresm-diag-basics.pdf)
+  + [CMIP5/6 and NorESM datasets on NIRD](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/cmip-data.pdf)
+  + Model configuration
+- [Example scripts for reproducible experiments](https://github.com/NorESMhub/NorESM_Workshop_2023/tree/main/share)
+- Collaborative document for questions and notes:<br> https://hackmd.io/fFzNUsuITv6LwlAdL7QfXg
