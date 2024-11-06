@@ -6,7 +6,7 @@
 - Links to lesson material in the schedule below (shareable)
 - Day 1:
   + [NorESM historical development](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/Bentsen_Torsvik_NorESM_user_workshop_20231120.pdf)
-  + [NorESM workflow and model structure](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/NorESM_user_workshop_2023.pdf
+  + [NorESM workflow and model structure](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/NorESM_user_workshop_2023.pdf)
   + [Reproducible experiment and model design](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/Steve_Day4_Scripts_ModelDevelopment_SEdycore.pdf)
 - Day 2:
   + [Basics on NorESM model output](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/noresm-diag-basics.pdf)
