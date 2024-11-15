@@ -21,7 +21,7 @@ schedule:
         title: model structure (cont.)
       - starts: 10:00
         ends: 11:00
-        title: Options for building and running NorESM; run scripts
+        title: Options for compsets and grids; run scripts
       - starts: 11:00
         ends: 12:00
         title: lunch break
