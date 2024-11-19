@@ -9,7 +9,7 @@
   + [Introduction to NorESM2](https://github.com/NorESMhub/NorESM2_Workshop_2024/blob/main/presentations/02-Introduction_to_NorESM2.pdf)
   + [Model architecture and run scripts](https://github.com/NorESMhub/NorESM2_Workshop_2024/blob/main/presentations/03-NorESM_Model_Structure_and_Use_DAY1.pdf)
 - Exercises:
-  + [Exercises DAY1](https://github.com/NorESMhub/NorESM2_Workshop_2024/blob/main/exercises/NorESM_workshp_2024_exercises.pdf)
+  + [Exercises DAY1](https://github.com/NorESMhub/NorESM2_Workshop_2024/blob/main/exercises/NorESM_workshop_2024_exercises.pdf)
 - Day 2:
   <!--
     + [Basics on NorESM model output](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/noresm-diag-basics.pdf)
