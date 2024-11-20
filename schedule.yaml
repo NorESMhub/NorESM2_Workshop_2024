@@ -1,0 +1,45 @@
+---
+# all times must be input in UTC, be careful about daylight saving
+schedule:
+  - title: "Day 1"
+    date: "2024-11-19"
+    sessions:
+      - starts: 8:00
+        ends: 8:10
+        title: Welcome; practical info
+      - starts: 8:10
+        ends: 8:30
+        title: Introduction to NorESM
+      - starts: 8:30
+        ends: 9:20
+        title: Downloading NorESM; basic setup; model structure
+      - starts: 9:20
+        ends: 9:35
+        title: break
+      - starts: 9:35
+        ends: 10:00
+        title: model structure (cont.)
+      - starts: 10:00
+        ends: 11:00
+        title: Options for compsets and grids; run scripts
+      - starts: 11:00
+        ends: 12:00
+        title: lunch break
+      - starts: 12:00
+        ends: 14:00
+        title: Exercises - Day 1
+  - title: "Day 2"
+    date: "2024-11-20"
+    sessions:
+      - starts: 8:00
+        ends: 8:35
+        title: Setting up different case types
+      - starts: 8:35
+        ends: 9:20
+        title: Configure build and run settings for a case
+      - starts: 9:20
+        ends: 9:35
+        title: break
+      - starts: 9:35
+        ends: 11:00
+        title: NorESM diagnostics, demo
