@@ -12,7 +12,7 @@
   + [Exercises DAY1](https://github.com/NorESMhub/NorESM2_Workshop_2024/blob/main/exercises/NorESM_workshop_2024_exercises.pdf)
 - Day 2:
   + [Config tools and types of NorESM runs](https://github.com/NorESMhub/NorESM2_Workshop_2024/blob/main/presentations/04-NorESM_UserWorkshop2024_DAY2.pdf)
-  + [Diagnostics](https://noresmhub.github.io/NorESM2_Workshop_2024/presentation/noresm-diagnostic.html)
+  + [Diagnostics](https://noresmhub.github.io/NorESM2_Workshop_2024/blob/main/presentation/noresm-diagnostic.html)
   <!--
     + [Basics on NorESM model output](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/noresm-diag-basics.pdf)
     + [CMIP5/6 and NorESM datasets on NIRD](https://github.com/NorESMhub/NorESM_Workshop_2023/blob/main/presentations/cmip-data.pdf)
