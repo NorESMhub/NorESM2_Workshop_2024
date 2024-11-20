@@ -14,4 +14,4 @@
   + [Config tools and types of NorESM runs](https://github.com/NorESMhub/NorESM2_Workshop_2024/blob/main/presentations/04-NorESM_UserWorkshop2024_DAY2.pdf)
   + [Changing namelist settings](https://github.com/NorESMhub/NorESM2_Workshop_2024/blob/main/presentations/Day2_02_NorESM-namelists_MD.pdf)
   + [NorESM output and diagnostic tools](https://github.com/NorESMhub/NorESM2_Workshop_2024/blob/main/presentations/05-NorESM-Diagnostics-DAY2.pdf)
-- ...
+  - [notes in HackMD](https://hackmd.io/v19N1OEpRXGaHuB7zGCAWA)
